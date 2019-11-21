@@ -1,0 +1,5 @@
+textures/Tarelka001__0_baseColor.jpeg -> 29B5F4C6FD4FAA8085B228E68D23BD93.jpeg
+textures/pizza_baseColor.jpeg -> C65B922D9CD6691AAFF6B63C79C6F4C3.jpeg
+textures/pizza_metallicRoughness.png -> 704D3FED1B9FD6C56B66AF6711A7FCBE.png
+textures/pizza_normal.jpeg -> 81349D712EC50CA24B65262E7833F119.jpeg
+scene.bin -> E0C5CEE43DB1A80C6DEDB94F23180265.bin

@@ -1,0 +1,297 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5123,
+      "count": 1584,
+      "name": "accessorIndices",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 320,
+      "max": [
+        7.95469236,
+        1.67957687,
+        7.95469236
+      ],
+      "min": [
+        -7.95469236,
+        -18.78789,
+        -7.95469236
+      ],
+      "name": "accessorPositions",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3840,
+      "componentType": 5126,
+      "count": 320,
+      "name": "accessorNormals",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 320,
+      "name": "accessorTangents",
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 320,
+      "name": "accessorUVs",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 3168,
+      "componentType": 5123,
+      "count": 2778,
+      "name": "accessorIndices",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 7680,
+      "componentType": 5126,
+      "count": 527,
+      "max": [
+        8.48117,
+        5.49620628,
+        8.48117
+      ],
+      "min": [
+        -8.48117,
+        0.596668243,
+        -8.48117
+      ],
+      "name": "accessorPositions",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 14004,
+      "componentType": 5126,
+      "count": 527,
+      "name": "accessorNormals",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 5120,
+      "componentType": 5126,
+      "count": 527,
+      "name": "accessorTangents",
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 2560,
+      "componentType": 5126,
+      "count": 527,
+      "name": "accessorUVs",
+      "type": "VEC2"
+    }
+  ],
+  "asset": {
+    "generator": "babylon.js glTF exporter for maya 2018 v20190628.11",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 8724,
+      "name": "bufferViewScalar"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 20328,
+      "byteOffset": 8724,
+      "byteStride": 12,
+      "name": "bufferViewFloatVec3"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13552,
+      "byteOffset": 29052,
+      "byteStride": 16,
+      "name": "bufferViewFloatVec4"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6776,
+      "byteOffset": 42604,
+      "byteStride": 8,
+      "name": "bufferViewFloatVec2"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1,
+      "byteOffset": 0,
+      "name": "bufferViewImage"
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 49380,
+      "uri": "CoffeeCupRS.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "image0.png"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "OPAQUE",
+      "emissiveFactor": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "name": "StingrayPBS1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 1.0,
+        "roughnessFactor": 1.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "nurbsToPoly2",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 1,
+            "NORMAL": 2,
+            "TANGENT": 3,
+            "TEXCOORD_0": 4
+          },
+          "indices": 0,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "nurbsToPoly1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 6,
+            "NORMAL": 7,
+            "TANGENT": 8,
+            "TEXCOORD_0": 9
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1,
+        2
+      ],
+      "name": "CUP",
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        0.7012628,
+        0.7012628,
+        0.7012628
+      ],
+      "translation": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "mesh": 0,
+      "name": "nurbsToPoly2",
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        0.810771942,
+        1.0
+      ],
+      "translation": [
+        0.0,
+        15.2559614,
+        0.0
+      ]
+    },
+    {
+      "mesh": 1,
+      "name": "nurbsToPoly1",
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "translation": [
+        0.0,
+        15.2559614,
+        0.0
+      ]
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "extensions": {},
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "CoffeeCupMaterial_baseColor.png",
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}

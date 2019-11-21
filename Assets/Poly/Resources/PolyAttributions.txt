@@ -1,0 +1,25 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Burger
+Author: Nasrin Tohidi
+URL: https://poly.google.com/view/f091eSXUXpI
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Supreme Pizza
+Author: Jarlan Perez
+URL: https://poly.google.com/view/efHt8L0V77z
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Treasure box
+Author: Robert Schütte
+URL: https://poly.google.com/view/4SPOvKnmn80
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: VLCoffeCupResized
+Author: Gerard Baldsing
+URL: https://poly.google.com/view/9SeLoRqPjsw
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
